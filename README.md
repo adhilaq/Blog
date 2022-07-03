@@ -1,5 +1,6 @@
 # Blog
-A blog web app where users could post and view content
+A blog web app where users could post and view content.
+
 Features include:
 1. User Registration
 2. Login System
