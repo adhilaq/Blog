@@ -2,10 +2,12 @@
 A blog web app where users could post and view content.
 
 Features include:
-1. User Registration
-2. Login System
-3. User Profile
-4. Create, Update and Delete Posts
+- User Registration
+- Login System
+- User Profile
+- Create, Update and Delete Posts
+- Filter posts based on user who created the post
+
 
 ## Directions for Setting up Environment-
 
